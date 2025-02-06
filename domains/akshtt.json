@@ -1,9 +1,12 @@
 {
     "owner": {
-        "username": "LegendOP1041",
-        "email": "maillegendop@gmail.com"
+        "username": "akshtt-dev",
+        "email": "maillegendop@gmail.com",
+        "discord": "1056531806763102218"
     },
     "record": {
-        "CNAME": "proxy.private.danbot.host"
+        "A": [
+            "69.197.135.202"
+        ]
     }
 }
